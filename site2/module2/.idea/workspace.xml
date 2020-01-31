@@ -1,11 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1350d17d-34f8-4042-b8d9-2a9bfcd3618c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../site/.idea/site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../site/module4/.idea/module4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module1/.idea/module1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1X9dCz0offmBtTwAByxSrQbz4Sv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1350d17d-34f8-4042-b8d9-2a9bfcd3618c" name="Default Changelist" comment="" />
+      <created>1580462120708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580462120708</updated>
+      <workItem from="1580462122442" duration="299000" />
+    </task>
+    <task id="LOCAL-00001" summary="Assignment2">
+      <created>1580462307639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580462307639</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assignment2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1580462300639">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1580462300639" />
+    <state x="121" y="56" key="DiffContextDialog" timestamp="1580462259755">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="56" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580462259755" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1580462408385">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1580462408385" />
+    <state x="444" y="78" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1580462224548">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="444" y="78" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1280.680@0.0.1280.680" timestamp="1580462224548" />
   </component>
 </project>
